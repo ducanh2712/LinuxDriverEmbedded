@@ -1,0 +1,27 @@
+https://www.youtube.com/watch?v=yiGszQxUa6k&list=PLlrqp8hxLforYHkPmr3T92awNwP5cikk7
+
+The course content would look like:
+
+Introduction to the Linux Kernel.
+Building the Linux Kernel.
+Install the cross-toolchain for Beaglebone Black.
+Build the u-boot bootloader for Beaglebone Black.
+Build the Linux Kernel for Beaglebone Black.
+Build the Root file system for Beaglebone black.
+Setting up the Gtkterm.
+Understanding of Gparted.
+Flash u-boot, Linux kernel, rootfs on Beaglebone Black.
+Deep-Dive into U-boot and uboot commands.
+Boot the Linux kernel from u-boot via tftpboot protocol.
+Demonstrate all the Linux Driver Concepts on BeagleBone Black. Please Follow the Linux Device Driver course Details.
+Developing Memory Mapped Character IO driver for Beaglebone Black.
+Developing GPIO based LED Driver.
+Developing I2C based driver on Beaglebone Black.
+Debugging Techniques.
+Pre-requisites for the course:
+Good C Programming Skills.
+Understanding of basic programming interfaces like open(), read(), write(), close(), etc.
+Understanding of basic OS concepts like userspace vs kernel space, semaphores, mutex, race conditions will be an added advantage.
+Understanding of basic hardware terminology like interrupts, BIOS, etc will be an added advantage.
+Knowledge of basic Linux commands will be an added advantage. (not a necessity)
+“Linux Device Driver Training” is a must to understand this better. Please check out our course on this @ https://techogenius.com/course/4
